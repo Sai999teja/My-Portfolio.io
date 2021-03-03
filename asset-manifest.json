@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.956fad23.chunk.css",
-    "main.js": "/home/static/js/main.76978d73.chunk.js",
-    "main.js.map": "/home/static/js/main.76978d73.chunk.js.map",
-    "runtime-main.js": "/home/static/js/runtime-main.3c590061.js",
-    "runtime-main.js.map": "/home/static/js/runtime-main.3c590061.js.map",
-    "static/js/2.0b538cd4.chunk.js": "/home/static/js/2.0b538cd4.chunk.js",
-    "static/js/2.0b538cd4.chunk.js.map": "/home/static/js/2.0b538cd4.chunk.js.map",
-    "index.html": "/home/index.html",
-    "precache-manifest.7254e722843d1f4d1e2fca19151348d3.js": "/home/precache-manifest.7254e722843d1f4d1e2fca19151348d3.js",
-    "service-worker.js": "/home/service-worker.js",
-    "static/css/main.956fad23.chunk.css.map": "/home/static/css/main.956fad23.chunk.css.map",
-    "static/js/2.0b538cd4.chunk.js.LICENSE.txt": "/home/static/js/2.0b538cd4.chunk.js.LICENSE.txt",
-    "static/media/resume.pdf": "/home/static/media/resume.2b3fff2e.pdf",
-    "static/media/saipic.jpg": "/home/static/media/saipic.fb0c7a55.jpg"
+    "main.css": "/My-Portfolio.github.io/static/css/main.956fad23.chunk.css",
+    "main.js": "/My-Portfolio.github.io/static/js/main.569612bf.chunk.js",
+    "main.js.map": "/My-Portfolio.github.io/static/js/main.569612bf.chunk.js.map",
+    "runtime-main.js": "/My-Portfolio.github.io/static/js/runtime-main.2df8d7a9.js",
+    "runtime-main.js.map": "/My-Portfolio.github.io/static/js/runtime-main.2df8d7a9.js.map",
+    "static/js/2.0b538cd4.chunk.js": "/My-Portfolio.github.io/static/js/2.0b538cd4.chunk.js",
+    "static/js/2.0b538cd4.chunk.js.map": "/My-Portfolio.github.io/static/js/2.0b538cd4.chunk.js.map",
+    "index.html": "/My-Portfolio.github.io/index.html",
+    "precache-manifest.a76f4ded25f040c0a7a3c1f7c824fb96.js": "/My-Portfolio.github.io/precache-manifest.a76f4ded25f040c0a7a3c1f7c824fb96.js",
+    "service-worker.js": "/My-Portfolio.github.io/service-worker.js",
+    "static/css/main.956fad23.chunk.css.map": "/My-Portfolio.github.io/static/css/main.956fad23.chunk.css.map",
+    "static/js/2.0b538cd4.chunk.js.LICENSE.txt": "/My-Portfolio.github.io/static/js/2.0b538cd4.chunk.js.LICENSE.txt",
+    "static/media/resume.pdf": "/My-Portfolio.github.io/static/media/resume.2b3fff2e.pdf",
+    "static/media/saipic.jpg": "/My-Portfolio.github.io/static/media/saipic.fb0c7a55.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3c590061.js",
+    "static/js/runtime-main.2df8d7a9.js",
     "static/js/2.0b538cd4.chunk.js",
     "static/css/main.956fad23.chunk.css",
-    "static/js/main.76978d73.chunk.js"
+    "static/js/main.569612bf.chunk.js"
   ]
 }
